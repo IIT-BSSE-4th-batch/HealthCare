@@ -4,12 +4,16 @@
 		<item value="1025" key="dialogWidth"/>
 		<item value="526" key="dialogHeight"/>
 		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textArray">
+			<item value="devices"/>
 		</list>
 		<list key="orderedElements">
+			<item value="com.android.ide.eclipse.ddms.views.DeviceView"/>
 		</list>
 		<list key="textEntries">
+			<item value="1"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
